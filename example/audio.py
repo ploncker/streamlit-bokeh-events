@@ -9,6 +9,8 @@ source
 https://discuss.streamlit.io/t/speech-to-text-on-client-side-using-html5-and-streamlit-bokeh-events/7888
 github
 https://github.com/ash2shukla/streamlit-bokeh-events/blob/master/example/custom_js.py
+Huggingface
+https://huggingface.co/spaces/Madhuri/vqa_audiobot/blob/main/audiobot.py
 """
 # import streamlit as st
 # from bokeh.models.widgets import Button
